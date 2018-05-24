@@ -1,0 +1,6 @@
+framework module Pods_MonthlyPerformanceTrackerUITests {
+  umbrella header "Pods-MonthlyPerformanceTrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
